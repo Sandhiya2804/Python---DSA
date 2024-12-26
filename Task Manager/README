@@ -1,0 +1,12 @@
+Project Title: "Task Manager" (Using LinkedList, Stack, and Queue)
+
+Overview:
+Building a simple task manager program where users can add tasks, remove tasks, and view tasks in different ways. This project will use:
+
+LinkedList for storing and managing tasks in a dynamic list.
+Stack for undo functionality (to revert the last removed task).
+Queue to manage tasks based on priority (FIFO). 
+
+Technology Used:
+Python 
+DSA - LinkedLiist, Stack, Queue
